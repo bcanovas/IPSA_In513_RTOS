@@ -13,7 +13,7 @@ This project involves two main components:
 
 ## Files
 
-### 1. `final_assignement.py` - Task Scheduling Analysis (EDF Algorithm)
+### 1. `scheduling_analysis.py` - Task Scheduling Analysis (EDF Algorithm)
 
 This Python script analyzes the schedulability of a given task set using the EDF algorithm.
 
@@ -28,7 +28,7 @@ This Python script analyzes the schedulability of a given task set using the EDF
 
 ---
 
-### 2. `main.c` - FreeRTOS RTOS Implementation
+### 2. `simple_RTOS.c` - FreeRTOS RTOS Implementation
 
 This C program uses FreeRTOS to implement a real-time operating system (RTOS) handling five periodic tasks.
 
@@ -50,10 +50,3 @@ This C program uses FreeRTOS to implement a real-time operating system (RTOS) ha
 
 ---
 
-## Setup Instructions
-
-### Python Component (`final_assignement.py`):
-1. Ensure you have Python installed on your system.
-2. Run the script using the following command:
-   ```bash
-   python final_assignement.py
