@@ -2,8 +2,7 @@
 Depository for the final assignement of Embedded Systems.
 
 
-# Final Assignment - Real-Time Operating System (RTOS) and Scheduling
-
+# Final Assignment
 ## Project Overview
 
 This project involves two main components:
